@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesonodjae
+- 👋 Hi, I’m James Onodjae
 - 👀 I’m a html email developer & Frontend developer
 - 🌱 My skills are html, css, javascript, react, sass, tailwind, mjml, ampScript, html email
 - 💞️ I’m looking to collaborate on any project available
